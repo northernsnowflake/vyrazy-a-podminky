@@ -1,4 +1,4 @@
-#Vytvoř hru Kámen nůžky papír
+#Vytvoř hru Kámen nůžky papír  
 
 import random
 seznam = ['kámen','nůžky','papír']

@@ -8,10 +8,10 @@ jinak, je-li číslo 1:
 do proměnné tvar uloží slovo 'čtverec';
 jinak:
 do proměnné tvar uloží slovo 'kolečko'.
-Vypíše tvar.
+Vypíše tvar. 
 '''
 
-from random import randrange
+from random import randrange 
 
 cislo = randrange(0, 3)
 if cislo == 1:
